@@ -1,0 +1,163 @@
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program\Program\bin\Debug\Program.exe.config
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program\Program\bin\Debug\Program.exe
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program\Program\bin\Debug\Program.pdb
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program\Program\bin\Debug\Program.xml
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program\Program\bin\Debug\Bunifu_UI_v1.52.dll
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program\Program\obj\Debug\Program.vbprojResolveAssemblyReference.cache
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program\Program\obj\Debug\Program.Resources.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program\Program\obj\Debug\Program.vbproj.GenerateResource.Cache
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program\Program\obj\Debug\Program.exe
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program\Program\obj\Debug\Program.xml
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program\Program\obj\Debug\Program.pdb
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program\Program\obj\Debug\Program.Login.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program\Program\obj\Debug\Program.GagalLogin.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program\Program\obj\Debug\Program.ProgMenu.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program\Program\obj\Debug\Program.SKIDP29.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program\Program\obj\Debug\Program.ProgInspeksi.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program V2\Program\bin\Debug\Program.exe.config
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program V2\Program\obj\Debug\Program.exe
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program V2\Program\obj\Debug\Program.xml
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program V2\Program\obj\Debug\Program.pdb
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program V2\Program\bin\Debug\Program.exe
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program V2\Program\bin\Debug\Program.pdb
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program V2\Program\bin\Debug\Program.xml
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program V2\Program\bin\Debug\Bunifu_UI_v1.52.dll
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program V2\Program\obj\Debug\Program.vbprojResolveAssemblyReference.cache
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program V2\Program\obj\Debug\Program.GagalLogin.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program V2\Program\obj\Debug\Program.Login.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program V2\Program\obj\Debug\Program.Resources.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program V2\Program\obj\Debug\Program.ProgMenu.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program V2\Program\obj\Debug\Program.vbproj.GenerateResource.Cache
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program V2\Program\obj\Debug\Program.SKIDP29.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program V2\Program\obj\Debug\Program.vbproj.ResolveComReference.cache
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program V2\Program\obj\Debug\Program.SKIDP31.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program V2\Program\obj\Debug\Program.SKIDP32.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program V2\Program\obj\Debug\Program.SKIDP33.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\bin\Debug\Program.exe.config
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.vbproj.ResolveComReference.cache
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.exe
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.xml
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.pdb
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.GagalLogin.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.Login.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.Resources.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.ProgMenu.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.SKIDP29.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.vbproj.GenerateResource.Cache
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\bin\Debug\Program.exe
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\bin\Debug\Program.pdb
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\bin\Debug\Program.xml
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\bin\Debug\Bunifu_UI_v1.52.dll
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.ProgMenu_Admin.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.EditInspeksi.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.Historical.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.Chart.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\bin\Debug\BunifuDataViz 1.0.dll
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\bin\Debug\Program.exe.manifest
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\bin\Debug\Program.application
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.exe.manifest
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Aplikasi Barang 2\Project PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.application
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.vbproj.ResolveComReference.cache
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\bin\Debug\BunifuDataViz 1.0.dll
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.Chart.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.EditInspeksi.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.GagalLogin.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.Historical.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.Login.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.Resources.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.ProgMenu_Admin.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.ProgMenu.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.SKIDP29.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.vbproj.GenerateResource.Cache
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\bin\Debug\InspectionCheck2019.exe.config
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\bin\Debug\InspectionCheck2019.exe.manifest
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\bin\Debug\InspectionCheck2019.application
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\bin\Debug\InspectionCheck2019.exe
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\bin\Debug\InspectionCheck2019.pdb
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\bin\Debug\InspectionCheck2019.xml
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\obj\Debug\InspectionCheck2019.exe.manifest
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\obj\Debug\InspectionCheck2019.application
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\obj\Debug\InspectionCheck2019.exe
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\obj\Debug\InspectionCheck2019.xml
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\obj\Debug\InspectionCheck2019.pdb
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.SplashScreen.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.vbprojAssemblyReference.cache
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 12_11_2019\Program\obj\Debug\Program.vbproj.CopyComplete
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\bin\Debug\InspectionCheck2019.exe.config
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\bin\Debug\InspectionCheck2019.exe.manifest
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\bin\Debug\InspectionCheck2019.application
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\bin\Debug\InspectionCheck2019.exe
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\bin\Debug\InspectionCheck2019.pdb
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\bin\Debug\InspectionCheck2019.xml
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\bin\Debug\BunifuDataViz 1.0.dll
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\obj\Debug\Program.vbproj.ResolveComReference.cache
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\obj\Debug\Program.EditInspeksi.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\obj\Debug\Program.Chart.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\obj\Debug\Program.SplashScreen.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\obj\Debug\Program.GagalLogin.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\obj\Debug\Program.Historical.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\obj\Debug\Program.Login.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\obj\Debug\Program.Resources.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\obj\Debug\Program.ProgMenu_Admin.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\obj\Debug\Program.ProgMenu.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\obj\Debug\Program.SKIDP29.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\obj\Debug\Program.vbproj.GenerateResource.cache
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\obj\Debug\InspectionCheck2019.exe.manifest
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\obj\Debug\InspectionCheck2019.application
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\obj\Debug\Program.vbproj.CopyComplete
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\obj\Debug\InspectionCheck2019.exe
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\obj\Debug\InspectionCheck2019.xml
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\obj\Debug\InspectionCheck2019.pdb
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\Program Revisi 28_11_2019 Final\Program\obj\Debug\Program.vbprojAssemblyReference.cache
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\bin\Debug\InspectionCheck2019.exe.config
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\bin\Debug\InspectionCheck2019.exe.manifest
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\bin\Debug\InspectionCheck2019.application
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\bin\Debug\InspectionCheck2019.exe
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\bin\Debug\InspectionCheck2019.pdb
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\bin\Debug\InspectionCheck2019.xml
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\bin\Debug\BunifuDataViz 1.0.dll
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\obj\Debug\Program.vbprojAssemblyReference.cache
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\obj\Debug\Program.vbproj.ResolveComReference.cache
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\obj\Debug\Program.EditInspeksi.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\obj\Debug\Program.Chart.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\obj\Debug\Program.SplashScreen.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\obj\Debug\Program.GagalLogin.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\obj\Debug\Program.Historical.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\obj\Debug\Program.Login.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\obj\Debug\Program.Resources.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\obj\Debug\Program.ProgMenu_Admin.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\obj\Debug\Program.ProgMenu.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\obj\Debug\Program.SKIDP29.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\obj\Debug\Program.vbproj.GenerateResource.cache
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\obj\Debug\InspectionCheck2019.exe.manifest
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\obj\Debug\InspectionCheck2019.application
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\obj\Debug\Program.vbproj.CopyComplete
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\obj\Debug\InspectionCheck2019.exe
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\obj\Debug\InspectionCheck2019.xml
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 04-12-2019 Visual Basic NET\Program\obj\Debug\InspectionCheck2019.pdb
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\obj\Debug\Program.vbproj.ResolveComReference.cache
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\obj\Debug\Program.EditInspeksi.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\obj\Debug\Program.Chart.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\obj\Debug\Program.SplashScreen.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\obj\Debug\Program.GagalLogin.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\obj\Debug\Program.Historical.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\obj\Debug\Program.Login.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\obj\Debug\Program.Resources.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\obj\Debug\Program.ProgMenu_Admin.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\obj\Debug\Program.ProgMenu.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\obj\Debug\Program.SKIDP29.resources
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\obj\Debug\Program.vbproj.GenerateResource.cache
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\obj\Debug\InspectionCheck2019.exe
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\obj\Debug\InspectionCheck2019.xml
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\obj\Debug\InspectionCheck2019.pdb
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\bin\Debug\InspectionCheck2019.exe.config
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\bin\Debug\InspectionCheck2019.exe.manifest
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\bin\Debug\InspectionCheck2019.application
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\bin\Debug\InspectionCheck2019.exe
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\bin\Debug\InspectionCheck2019.pdb
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\bin\Debug\InspectionCheck2019.xml
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\bin\Debug\BunifuDataViz 1.0.dll
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\obj\Debug\InspectionCheck2019.exe.manifest
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\obj\Debug\InspectionCheck2019.application
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\obj\Debug\Program.vbproj.CopyComplete
+E:\WORKING\POLMAN BANDUNG\PT YASULOR INDONESIA\PIC\REVISI AKHIR\Program Revisi 05-12-2019 VisualBasic NET\Program\obj\Debug\Program.vbprojAssemblyReference.cache

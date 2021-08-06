@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Program", "Program\Program.vbproj", "{54230702-6F86-4C1D-A6F3-FE8BBB0531EE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupProcessMaintenance", "Installer Program Inspection Check\SetupProcessMaintenance\SetupProcessMaintenance.vdproj", "{F7B219C8-90BC-442B-9D48-3BCD17B7250E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54230702-6F86-4C1D-A6F3-FE8BBB0531EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54230702-6F86-4C1D-A6F3-FE8BBB0531EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54230702-6F86-4C1D-A6F3-FE8BBB0531EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54230702-6F86-4C1D-A6F3-FE8BBB0531EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B219C8-90BC-442B-9D48-3BCD17B7250E}.Debug|Any CPU.ActiveCfg = Debug
+		{F7B219C8-90BC-442B-9D48-3BCD17B7250E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB3CB4AB-321B-4DF0-81D4-98B65621436F}
+	EndGlobalSection
+EndGlobal
